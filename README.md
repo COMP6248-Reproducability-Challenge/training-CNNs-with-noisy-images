@@ -7,7 +7,7 @@
 - Harry Porter
 
 ## Link to Original Paper
-[Data Augmentation in Training CNNs: Injecting Noise to Images](https://openreview.net/forum?id=)
+[Data Augmentation in Training CNNs: Injecting Noise to Images](https://openreview.net/forum?id=SkeKtyHYPS)
 
 ## Notes About the Code
 - None of the authors original code was used for this project
