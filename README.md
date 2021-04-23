@@ -5,6 +5,7 @@
 - Edvin Piaulokas
 - Jack Seabrook
 - Harry Porter
+We have agreed to split the marks evenly for all group members.
 
 ## Link to Original Paper
 [Data Augmentation in Training CNNs: Injecting Noise to Images](https://openreview.net/forum?id=SkeKtyHYPS)
