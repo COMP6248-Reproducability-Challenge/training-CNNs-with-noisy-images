@@ -2,7 +2,7 @@
 
 ## Group Members
 - Anthony Scregg
-- Edvin Piaulokus
+- Edvin Piaulokas
 - Jack Seabrook
 - Harry Porter
 
